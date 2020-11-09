@@ -5,26 +5,29 @@
 
 ## Innlogging
 
-![Registrering]((2)Logginn.gif)
+![Innlogging]((2)Logginn.gif)
 
 
 ## Nymail
 
-![Registrering]((3)Nymail.gif)
+![Nymail]((3)Nymail.gif)
 
 
 ## CRUD
 
-![Registrering]((4)CRUD.gif)
+![CRUD]((4)CRUD.gif)
 
 
 ## Endre passord
 
-![Registrering]((5)Endrepassord.gif)
+![endrepassord]((5)Endrepassord.gif)
 
 ## Resette passord
 
-![Registrering]((6)Resettepassord.gif)
+![resettepassord]((6)Resettepassord.gif)
+
+## Sende mail (fra index.js)
+![sendemail]((7)sendemail.gif)
 
 ## Kildehenvisning
 (How to Use the Container from React Bootstrap in Gatsby JS, 27.feb, 2020)</br>Hentet fra: https://www.youtube.com/watch?v=GTbMzAv2Gew </br>
