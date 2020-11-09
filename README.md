@@ -33,7 +33,7 @@
 (How to Use the Container from React Bootstrap in Gatsby JS, 27.feb, 2020)</br>Hentet fra: https://www.youtube.com/watch?v=GTbMzAv2Gew </br>
 (React Authentication Crash Course With Firebase And Routing, 10.okt, 2020)</br>Hentet fra: https://www.youtube.com/watch?v=PKwu15ldZ7k&list=LL&index=8</br>
 https://github.com/WebDevSimplified/React-Firebase-Auth</br>
-(Build a Text editor in React JS, 8.sep, 2020)</br>Hentet fra:
+(Build a Text editor in React JS, 8.sep, 2020)</br> Hentet fra:
 https://www.youtube.com/watch?v=PDdZB83_Nrs</br>
 https://github.com/codebucks27/ReactJs-Text-Editor</br>
 (CRUD Tutorial - ReactJS, NodeJS, MySQL [Part 1-3], 29.august, 2020)</br> Hentet fra:
