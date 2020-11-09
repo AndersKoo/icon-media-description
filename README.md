@@ -42,4 +42,5 @@ https://www.youtube.com/watch?v=3YrOOia3-mo</br>
 https://www.youtube.com/watch?v=_S2GKnFpdtE</br>
 (Send email with Nodemailer using gmail account - Nodejs, 26.feb 2019)</br> Hentet fra:
 https://www.youtube.com/watch?v=Va9UKGs1bwI&list=LL&index=1</br>
+https://github.com/accimeesterlin/nodemailer-examples/tree/master/sendEmailWithGmail</br>
 
