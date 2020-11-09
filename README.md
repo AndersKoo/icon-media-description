@@ -17,3 +17,7 @@ Slette HTM-kode<br>
   
   Bilder
 <img src="https://github.com/AndersKoo/netflix-clone/blob/master/netflix-gui.png" alt="alternatetext" width="600" height="300"><br>
+
+## Demonstrasjon
+
+![Registrering](src/assets/gif/cv.gif)
